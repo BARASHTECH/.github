@@ -22,7 +22,6 @@ Our C++ developers bring robust and efficient solutions to the table. Our expert
 - Real-Time Systems
 - Cross-Platform Development
 
-
 ### Java Development
 Our Java developers create versatile and secure applications. Our expertise includes:
 - Enterprise Applications
@@ -47,7 +46,14 @@ Our Python developers deliver scalable and efficient solutions. Our expertise in
 - AI and Machine Learning
 - Backend Development
 
+### SQL Development
 
+Our SQL developers create versatile and secure applications. Our expertise includes:
+- Expertise in SQL syntax and semantics
+- Ability to write optimized queries
+- Experience working with various databases, including PostgreSQL and MySQL
+- Experience in designing, developing, and administering PostgreSQL databases
+- Proficiency in working with stored procedures, views, triggers and indexes
 ## Why Choose Us?
 
 - **Award-Winning Team:** Our team members are winners of prestigious hackathons and programming Olympiads, demonstrating their superior problem-solving skills and innovative thinking.
